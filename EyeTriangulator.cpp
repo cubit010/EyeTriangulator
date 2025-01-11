@@ -7,7 +7,6 @@
 #include <vector>
 #include <algorithm>
 #include <windows.h>
-#include <limits>  // For std::numeric_limits
 
 // Constants
 const double PI = 3.14159265358979323846;
